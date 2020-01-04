@@ -1,0 +1,9 @@
+cPanel username:
+nash316
+Password: Nash@123
+
+godaddy account number:
+85038800
+
+wordpress password :
+None
